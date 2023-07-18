@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [gethashat/extension-chrome](https://github.com/gethashat/extension-chrome)
+- 🔭 I’m currently working on [hashat](https://hashat.app/)
 - ⚡ Languages:
   - PHP
   - JavaScript
-  - ofc HTML and CSS
+  - HTML and CSS
 - 🌍 In real life I’m speaking German and English
 - 📫 How to reach me:
   - E-Mail: hi@kurtiii.de
@@ -13,4 +13,4 @@
   
  Have a great day. See you! 👋
   
- > Please notice that I won't answer questions about Hashat. Try contact the Hashat team via [our support page](https://l.hashat.app/support).
+ > Please notice that I won't answer questions about Hashat. Try contact the Hashat team via [our support page](https://support.hashat.app/) or via [email](support@hashat.app).
