@@ -5,6 +5,7 @@
   - PHP
   - JavaScript
   - HTML and CSS
+  - learning Dart
 - 🌍 In real life I’m speaking German and English
 - 📫 How to reach me:
   - E-Mail: hi@kurtiii.de
